@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Saerom Lee"
 title_separator          : "-"
 name                     : &name "Saerom Lee"
-description              : &description "PhD Candidate in Economics at UC Riverside"
+description              : &description "Assistant Professor of Economics, University of Toledo"
 url                      : https://saeromlee-phd.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saeromlee-phd/saeromlee-phd.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "photo_saerom_lee.jpg"
   name             : "Saerom Lee"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Economics at UC Riverside"
-  location         : "Riverside, CA"
+  bio              : "Assistant Professor of Economics, University of Toledo"
+  location         : "Toledo, OH"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "slee839@ucr.edu" 
+  email            : "saerom.lee@utoledo.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
