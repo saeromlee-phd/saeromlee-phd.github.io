@@ -9,7 +9,7 @@ permalink: /research/
 **** 
 ## <u>Journal Publications</u> 
 
-[1] **Lee, S.**., and **Lee, T.-H.**. (2026). [Improving the simple average combined forecast via factor-adjusted regularization]([https://kiss.kstudy.com/Detail/Ar?key=3854602](https://www.sciencedirect.com/science/article/pii/S0169207026000828)). _International Journal of Forecasting_, Advance online publication.
+[1] **Lee, S.**., and **Lee, T.-H.**. (2026). [Improving the simple average combined forecast via factor-adjusted regularization]([[https://kiss.kstudy.com/Detail/Ar?key=3854602](https://www.sciencedirect.com/science/article/pii/S0169207026000828)](https://www.sciencedirect.com/science/article/pii/S0169207026000828)). _International Journal of Forecasting_, Advance online publication.
 
 [2] Chah, E., and **Lee, S.**. (2021). [The Effect of Real Estate Shock on Consumption: Evidence from Panel Data](https://kiss.kstudy.com/Detail/Ar?key=3854602). _The Journal of Women and Economics_, 17(4), 59-85.
 
