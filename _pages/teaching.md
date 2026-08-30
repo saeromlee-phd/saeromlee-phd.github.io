@@ -15,12 +15,12 @@ author_profile: true
 
 ## Instructor of Record
 
-- ** University of Toledo **
+** University of Toledo **
 
 - Advanced Macroeconomics (Graduate level, Fall 2026) 
 - Principles of Macroeconomics (Fall 2026)
 
-- ** UC Riverside **
+** UC Riverside **
 
 - Mini-Statistics (Graduate level, Summer 2025) 
 - Introduction to Macroeconomics (Summer 2025)
