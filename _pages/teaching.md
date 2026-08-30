@@ -13,7 +13,14 @@ author_profile: true
 
 ****
 
-## Instructor, UC Riverside
+## Instructor of Record
+
+# University of Toledo
+
+- Advanced Macroeconomics (Graduate level, Fall 2026) 
+- Principles of Macroeconomics (Fall 2026)
+
+# UC Riverside
 
 - Mini-Statistics (Graduate level, Summer 2025) 
 - Introduction to Macroeconomics (Summer 2025)
@@ -23,11 +30,11 @@ author_profile: true
 
 ## Teaching Assistant, UC Riverside
 
-- Stock Market (Spring 2025, Fall 2025)
+- Stock Market (Spring 2026, Spring 2025, Fall 2025)
 - Statistics for Economics (Winter 2024, Fall 2024, Summer 2024, Summer 2025)
-- Introductory Econometrics (Winter 2023, Summer 2025)
+- Introductory Econometrics (Winter 2026, Winter 2023, Summer 2025)
 - Intermediate Macroeconomics (Winter 2022, Fall 2022, Summer 2022, Spring 2023, Fall 2023, Spring 2024, Winter 2025)
-- Introduction to Macroeconomics (Summer 2023, 
+- Introduction to Macroeconomics (Summer 2023) 
 - Introduction to Microeconomics (Fall 2021, Spring 2022, Summer 2025)
 
 ****
