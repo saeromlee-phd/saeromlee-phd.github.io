@@ -23,8 +23,6 @@ permalink: /research/
 
 -  **Lee, S.**, and Lee, T.-H. Improving Index Funds via Idiosyncratic Returns.
 
-<!-- ## <u>Work in Progress</u>
-* - **Lee, S.**, and Lee, T.-H. Improving Index Funds via Idiosyncratic Returns.
 
 
 
