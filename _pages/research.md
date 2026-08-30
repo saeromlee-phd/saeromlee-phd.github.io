@@ -7,7 +7,7 @@ permalink: /research/
 **** 
 
 **** 
-## <u>Journal Publications</u>
+## <u>Journal Publications</u> 
 
 [1] **Lee, S.**., and **Lee, T.-H.**. (2026). [Improving the simple average combined forecast via factor-adjusted regularization]([https://kiss.kstudy.com/Detail/Ar?key=3854602](https://www.sciencedirect.com/science/article/pii/S0169207026000828)). _International Journal of Forecasting_, Advance online publication.
 
