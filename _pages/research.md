@@ -21,7 +21,9 @@ permalink: /research/
 
 -  **Lee, S.**, and Lee, T.-H. (2025). [How to Summarize the Survey of Professional Forecasters?](https://economics.ucr.edu/repec/ucr/wpaper/202515.pdf). _R&R_.
 
--  **Lee, S.**, and Lee, T.-H. Improving Index Funds via Idiosyncratic Returns.
+-  **Lee, S.**, and Lee, T.-H. (2026). [Improving Index Funds via Idiosyncratic Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7480299). _Submitted_.
+
+-  Lee, Y., **Lee, S.**, and Lee, W. Spillover or Homegrown? Nonparametric analysis of East Asia's cross-border air pollution and its sources from recent data. 
 
 
 
